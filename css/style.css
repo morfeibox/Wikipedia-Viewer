@@ -124,3 +124,12 @@ input::-webkit-input-placeholder {
 -moz-box-shadow: 10px 10px 3px -5px rgba(163,163,163,1);
 box-shadow: 10px 10px 3px -5px rgba(163,163,163,1);
 }
+
+footer { 
+  background-color:#E5E5E5;
+  font-size:13px;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+
+}
